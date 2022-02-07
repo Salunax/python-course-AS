@@ -1,3 +1,4 @@
+# Python lection 1 homework
 # homework 8.1
 
 print("The mood checker")
