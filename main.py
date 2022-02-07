@@ -1,4 +1,5 @@
-#homework 8.1
+# homework 8.1
+
 print("The mood checker")
 mood= input("Mood checking: ")
 if mood == "happy":
@@ -14,7 +15,8 @@ elif mood == "relaxed":
 else:
     print("I don't recognize this mood")
 
-#homework 8.2
+# homework 8.2
+
 print("Guess the secret number")
 secret = 781
 guess = int(input("Guess number from 1 to 1000: "))
@@ -24,7 +26,8 @@ if guess == secret:
 else:
     print("Better luck next time!")
 
-#homework 8.3
+# homework 8.3
+
 print("calculator")
 x = int(input("Vpiši prvo število: "))
 y = int(input("Vpiši drugo število:  "))
